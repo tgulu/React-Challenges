@@ -4,7 +4,7 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 import Greetings from "/src/components/Greetings.jsx";
 // import Header from "/src/components/Header";
-import Welcome from "./components/Welcome";
+import Welcome from "../Welcome";
 
 function App() {
   return (
