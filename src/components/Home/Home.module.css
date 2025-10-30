@@ -1,4 +1,26 @@
 .wrapper {
-  background: #f90;
+  background: linear-gradient(
+    to right,
+    #1e3c72,
+    #2a5298,
+    #3a6ea5,
+    #4a8ac2,
+    #5aa2df,
+    #6ab8fb,
+    #7ad0fa,
+    #8ce8f9,
+    #a0fff9,
+    #b9f7f9,
+    #d2f0f9,
+    #ebf9f9
+  );
   width: 100%;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 20px;
 }
