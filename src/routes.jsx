@@ -3,7 +3,6 @@ import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import UseEffect from "./components/UseEffect/UseEffect";
 import UseState from "./components/UseState/UseState";
-import Form from "./components/Form/Form";
 
 const routes = [
   {
@@ -36,10 +35,7 @@ const routes = [
         path: "useState",
         element: <UseState />,
       },
-      {
-        path: "state",
-        element: <Form />,
-      },
+
       {
         path: "*",
         element: (
