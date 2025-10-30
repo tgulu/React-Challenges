@@ -6,7 +6,7 @@ function SiteNav() {
     { label: "Home", url: "/" },
     { label: "API", url: "/api" },
     { label: "State", url: "/state" },
-    { label: "useEffect", url: "/useEffect" },
+    { label: "useEffect", url: "/UseEffect" },
     { label: "useState", url: "/useState" },
   ];
   return (
