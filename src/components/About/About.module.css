@@ -7,7 +7,27 @@
 }
 
 .wrapper {
-  background: #f90;
+  background: linear-gradient(
+    to right,
+
+    #ff4500,
+    #ff2b03,
+    #ff3206,
+    #ff3809,
+    #ff3f0e,
+    #ff4d14,
+    #ff5a1a,
+    #ff6a1f,
+    #ff7a1f,
+    #ff8c1a,
+    #f90,
+    #ffa31a,
+    #ffad33,
+    #ffb84d,
+    #ffc266,
+    #ffcc80,
+    #ffd699
+  );
   width: 100%;
 }
 
