@@ -4,7 +4,10 @@ import styles from "./SiteNav.module.css";
 function SiteNav() {
   const navLinks = [
     { label: "Home", url: "/" },
-    { label: "About", url: "/about" },
+    { label: "API", url: "/api" },
+    { label: "State", url: "/state" },
+    { label: "useEffect", url: "/useEffect" },
+    { label: "useState", url: "/useState" },
   ];
   return (
     <div className={styles.wrapper}>
