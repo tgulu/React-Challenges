@@ -5,7 +5,6 @@ function SiteNav() {
   const navLinks = [
     { label: "Home", url: "/" },
     { label: "API", url: "/api" },
-    { label: "State", url: "/state" },
     { label: "useEffect", url: "/UseEffect" },
     { label: "useState", url: "/useState" },
   ];
